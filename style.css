@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  margin: 1em 0;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.white-paper-content {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.white-paper-content p {
+  margin-bottom: 1em;
+}
+
+.white-paper-content h2 {
+  margin-top: 2em;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
